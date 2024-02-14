@@ -1,4 +1,4 @@
-<img width='1000' hight='100' src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif">
+<img width='1000' hight='100' src="ritu_bannar.gif">
 
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Concert+One&size=80&pause=1000&color=F73D83&center=true&vCenter=true&random=false&width=700&height=100&lines=Hi!+%F0%9F%91%8B%2C+I'm;%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Ritu+Singh+%F0%9F%A5%B0" alt="Typing SVG" /></a>
